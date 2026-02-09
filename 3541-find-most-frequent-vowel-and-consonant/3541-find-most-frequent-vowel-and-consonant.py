@@ -1,16 +1,20 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        vowels = set("aeiou")
-        freq = Counter(s)   # frequency of each character
+        vowels = set('aeiou')
+        freq = {}
 
-        # collect vowel and consonant frequencies
-        vowel_freqs = [count for ch, count in freq.items() if ch in vowels]
-        consonant_freqs = [count for ch, count in freq.items() if ch not in vowels]
+        # Count frequencies
+        for ch in s:
+            freq[ch] = freq.get(ch, 0) + 1
 
-        # get maximum or 0 if none
-        max_vowel = max(vowel_freqs, default=0)
-        max_consonant = max(consonant_freqs, default=0)
+        max_vowel = 0
+        max_consonant = 0
+
+        # Find max vowel and consonant frequency
+        for ch, count in freq.items():
+            if ch in vowels:
+                max_vowel = max(max_vowel, count)
+            else:
+                max_consonant = max(max_consonant, count)
 
         return max_vowel + max_consonant
-
-        
