@@ -28,6 +28,7 @@ Solving Problems
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaishnavi-kute/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vaishnavi-kute/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@ Solving Problems
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vaishnavi-kute/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vaishnavi-kute/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Vaishnavi-kute/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +152,8 @@ Solving Problems
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
