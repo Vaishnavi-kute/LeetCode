@@ -85,6 +85,7 @@ Solving Problems
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vaishnavi-kute/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ Solving Problems
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vaishnavi-kute/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vaishnavi-kute/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ Solving Problems
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Vaishnavi-kute/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
